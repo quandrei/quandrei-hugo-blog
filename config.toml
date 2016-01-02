@@ -1,0 +1,43 @@
+theme = "hugo-redlounge"
+title = "[quandrei]"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://quandrei.github.io"
+canonifyurls = true
+paginate = 5
+paginatePath = "post"
+pygmentsStyle = "monokai"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  sidebartitle = "[quandrei]"
+  sidebartagline = "a cipher, wrapped in an enigma, smothered in secret sauce"
+  categoriescss = "/css/my-categories.css"
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about"
+
+[[menu.main]]
+    name = "Projects"
+    url = "/page/projects"
+
+[[menu.social]]
+    pre = "<i class='fa fa-github'></i>"
+    url = "http://www.github.com/quandrei"
+    identifier = "github"
+
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/quandrei"
+    identifier = "twitter"
+
+[[menu.social]]
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "https://ca.linkedin.com/in/andreazarbo"
+    identifier = "linkedin"
