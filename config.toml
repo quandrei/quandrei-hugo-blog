@@ -4,7 +4,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
-baseurl = "https://quandrei.github.io"
+baseurl = "https://quandrei.com"
 canonifyurls = true
 paginate = 5
 paginatePath = "post"
@@ -17,7 +17,7 @@ pygmentsStyle = "monokai"
 [params]
   sidebartitle = "[quandrei]"
   sidebartagline = "a cipher, wrapped in an enigma, smothered in secret sauce"
-  categoriescss = "/css/my-categories.css"
+  categoriescss = "/css/custom.css"
 
 [[menu.main]]
     name = "About"
