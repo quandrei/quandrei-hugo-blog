@@ -11,7 +11,7 @@ totop = true
 
 This is a home for all that is dev outside my regular gig as a software developer, with a few other interests peppered in. Formerly on [squarespace](http://squarespace.com/), I decided to move to github pages, and haven't looked back. If you're interested why, read [this](http://quandrei.github.io/2014/03/20/github-pages-transition/).
 
-<strong>Setup for this site:</strong>
+#### Setup for this site:
 
 * Deployed using [Hugo](https://gohugo.io/), a wicked static site generator
 * Hosted for free on [GitHub Pages](https://pages.github.com/)
