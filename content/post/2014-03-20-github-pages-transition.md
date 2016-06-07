@@ -1,12 +1,10 @@
 +++
 date = 2014-03-20T00:00:00Z
 tags = ["blog", "github"]
-categories = ["blog"]
 title = "Github Pages Transition"
 slug = "/github-pages-transition/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 So I've decided to make the transition from SquareSpace to [github pages](http://pages.github.com/).

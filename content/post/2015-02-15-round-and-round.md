@@ -1,19 +1,17 @@
 +++
 date = 2015-02-15T00:00:00Z
 tags = ["travel", "customer-service", "fail"]
-categories = ["travel"]
 title = "Round and round she goes..."
 slug = "/round-and-round/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 So, in preparations for a trip this summer, I had booked a few flights through the Royal Bank rewards program. The flight tickets are held by the Lufthansa airline, while one of the flights is operated by Air Canada (being one of their partners).
 
-An important piece of information to note, is that I will be traveling with an infant. That being the case, I wanted to reserve seats with a bassinet, and in the case of the Air Canada operated flight, this is in the preferred seating area (which carries with it a fee, that I am more than willing to pay). 
+An important piece of information to note, is that I will be traveling with an infant. That being the case, I wanted to reserve seats with a bassinet, and in the case of the Air Canada operated flight, this is in the preferred seating area (which carries with it a fee, that I am more than willing to pay).
 
-I contacted Lufthansa to book the seat (since the tickets were issued by them and I had the need to reserve seats on their flight as well), however, because it is a flight operated by Air Canada, they said I would need to speak to them for that specific flight. 
+I contacted Lufthansa to book the seat (since the tickets were issued by them and I had the need to reserve seats on their flight as well), however, because it is a flight operated by Air Canada, they said I would need to speak to them for that specific flight.
 
 I contacted Air Canada to book the seats, but the agent refused, because although the flight is operated by Air Canada, the ticket is with Lufthansa, so they cannot accept payment for seat reservation.
 
@@ -27,7 +25,7 @@ I decided that the most likely of the 3 to help, would be Air Canada, since they
 
 When I expressed my discontent with the Air Canada agent and requested to speak to a supervisor, I was told this was not possible. I was further informed I could not file a complaint with them, and would need to contact customer relations through an online form. When I requested an employee number or reference number for the call, for my complaint, I was told they were not permitted to give any of those out. So the only info I was given, was a first name and a city with a population of over 5 million people. I am certain in an organization as large as Air Canada, there could be only one.
 
-BUT I decided to file my grievance anyway, as instructed. I contacted customer relations, with the limited information I had, and received an answer fairly quickly. What was the answer, you ask? To contact the reservations department. The very same department that could do nothing to help me, the same department that refused to allow me to file a complaint with them, and the same department that referred me to customer relations to resolve my grievance in the first place. 
+BUT I decided to file my grievance anyway, as instructed. I contacted customer relations, with the limited information I had, and received an answer fairly quickly. What was the answer, you ask? To contact the reservations department. The very same department that could do nothing to help me, the same department that refused to allow me to file a complaint with them, and the same department that referred me to customer relations to resolve my grievance in the first place.
 
 And round and round she goes... again.
 

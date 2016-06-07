@@ -1,12 +1,10 @@
 +++
 date = 2014-10-05T00:00:00Z
 tags = ["blog", "github"]
-categories = ["blog"]
 title = "Github Pages Launch"
 slug = "/github-pages-launch/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 So the process was slow­moving (due to a few other things going on in my life), but it is finally up and running. A few things to take note of:

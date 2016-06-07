@@ -1,12 +1,10 @@
 +++
 date = 2013-10-02T00:00:00Z
 tags = ["gaming", "hardware", "specs", "steam"]
-categories = ["gaming"]
 title = "My gaming rig..."
 slug = "/my-gaming-rig/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 So, one of my passions is building my own gaming rigs. To the point, where I usually have parts lying around, and have been able to build a few additional towers on the side. Here are the specs to my latest:
@@ -22,7 +20,7 @@ So, one of my passions is building my own gaming rigs. To the point, where I usu
 * DasKeyboard Model S Professional
 * Razer DeathAdder Black
 * BenQ RL2450HT monitor
-* SteelSeries Siberia V2 
+* SteelSeries Siberia V2
 
 My main platform for gaming, like most, is Steam. Considering the most recent announcement of the SteamOS, machines, and gamepad, being excited is pretty much a given. I won't dwell too much on a subject that has been dissected and discussed at length across the inter-webs, but will say that I am really interested to see the level of customization available, and possibly being rid of Windows once and for all!
 
@@ -30,4 +28,4 @@ I suppose I would have to say that two of my favorite game developers are Ubisof
 
 If anyone needs a friend on Steam for the hardware beta, I go by the handle 'quandrei'.  Just ping me.
 
-L8r! 
+L8r!

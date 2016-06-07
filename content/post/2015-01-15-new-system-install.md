@@ -1,12 +1,10 @@
 +++
 date = 2015-01-15T00:00:00Z
 tags = ["new-system-install", "OS-X", "homebrew", "homebrew-cask", "dev-tools"]
-categories = ["dev", "tools"]
 title = "New System Install"
 slug = "/new-system-install/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 With the release of OS-X Yosemite, I decided it was time for a clean install of my system. I decided that this time, I would try and automate this as much as possible, without having to resort to being there very much, because, well... time is precious and I have better things to do.
@@ -32,8 +30,8 @@ You will notice that in the script, the first few installs are commented out. I 
 You might also want to specify some defaults for homebrew-cask, e.g. default of where you want your apps installed:
 
 ```
-### Specify your defaults in this environment variable 
-### (in .bash_profile or .zshenv) 
+### Specify your defaults in this environment variable
+### (in .bash_profile or .zshenv)
 $ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 ```
 
@@ -43,7 +41,7 @@ More can be found in the [usage docs](https://github.com/caskroom/homebrew-cask/
 
 I will not go into explaining why these tools are great and why you should use them. There are many articles out there. Just use the googles or [duck-duck-go](https://duckduckgo.com/), whichever you prefer.
 
-The rest of the script is essentially grabbing what I need/want; specifically, environment-wise via homebrew and gui apps via homebrew-cask. Nice thing about this, is I don't need to deal with downloaders and going to each invidual site. And updating/maintaining everything is a breeze, and achieved with a few simple commands in the terminal. 
+The rest of the script is essentially grabbing what I need/want; specifically, environment-wise via homebrew and gui apps via homebrew-cask. Nice thing about this, is I don't need to deal with downloaders and going to each invidual site. And updating/maintaining everything is a breeze, and achieved with a few simple commands in the terminal.
 
 If you are too lazy to actually look at my bash script, the following is a list of what I install:
 

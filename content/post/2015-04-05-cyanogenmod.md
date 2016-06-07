@@ -1,12 +1,10 @@
 +++
 date = 2015-04-05T00:00:00Z
 tags = ["android", "custom ROM", "CyanogenMod"]
-categories = ["android"]
 title = "CyanogenMod is the new black"
 slug = "/cyanogenmod/"
 notoc = true
 totop = true
-socialsharing = true
 +++
 
 Recently, I had been a little disappointed with the battery life on my [Nexus 4 device](http://en.wikipedia.org/wiki/Nexus_4). I noticed a drop in battery performance when I installed [Android Lollipop](http://www.android.com/versions/lollipop-5-0/), and thought the reason might be due to all the upgrades and bloat I had accumulated. I decided that what was needed was a tried and true method: a clean install. And this was the perfect opportunity to give a custom ROM a shot; specifically, [CyanogenMod](http://www.cyanogenmod.org/). This was my limited experience after about a week and a half of use...
@@ -25,9 +23,9 @@ I noticed after a while, I could not make phone calls. I was able to dial and co
 
 Less of an issue, but still annoying, was some of the display features on a few downloaded apps was hit or miss (e.g. when using the dropdwon tray, text on my Spotify app would be blank, and only icons would appear).
 
-### The creamy middles: 
+### The creamy middles:
 
-The battery consumption was pretty good in the beginning, with stock everything. But as I installed all the applications I needed, it was pretty much on par with Lollipop. Not so much a deal breaker, but one of the original reasons to try Cyanogenmod were some claims I had heard that battery life would be improved (at least marginally) with this ROM. 
+The battery consumption was pretty good in the beginning, with stock everything. But as I installed all the applications I needed, it was pretty much on par with Lollipop. Not so much a deal breaker, but one of the original reasons to try Cyanogenmod were some claims I had heard that battery life would be improved (at least marginally) with this ROM.
 
 ---
 
