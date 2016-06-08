@@ -7,13 +7,13 @@ notoc = true
 totop = true
 +++
 
-I started writing a trivial bookmarking app in [Python](https://www.python.org/) / [Flask](http://flask.pocoo.org/) for the express purpose of learning that stack. I must say that it was informative and fun.
+I started writing a trivial bookmarking app in [Python](https://www.python.org/) / [Flask](http://flask.pocoo.org/) for the main purpose of learning that stack. I must say that it was informative and fun.
 
 ### The dizzying highs:
 
 Writing something in Python, with its simple and clean syntax, was satisfying. Little verbosity, and getting the logic I needed into classes and organized accordingly, was not a big hurdle.
 
-The microframework, Flask, did a good job of staying out of my way, and giving me what I needed when defining my routes Unlike Django, which I had tried previously (with all its batteries included), I was able to get everything defined with a proper [RESTful API](http://www.restapitutorial.com/) in very little time.
+The microframework, Flask, did a good job of staying out of my way, and giving me what I needed when defining my routes. Unlike Django, which I had tried previously (with all its batteries included), I was able to get everything defined with a proper [RESTful API](http://www.restapitutorial.com/) in very little time.
 
 Implementing OATH (through some examples found online), turned out to be fairly straightforward. The only exception was integrating the app with [MongoDB](https://www.mongodb.com/) (more on that later), since it isn't your classic SQL DB.
 
