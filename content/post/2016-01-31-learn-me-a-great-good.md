@@ -1,6 +1,6 @@
 +++
 date = 2016-01-31T00:00:00Z
-tags = ["dev", "web", "learning", "programming languages", ]
+tags = ["dev", "web", "learning", "programming languages"]
 title = "Learn Me a Great Good"
 slug = "/learn-me-a-great-good/"
 notoc = true
