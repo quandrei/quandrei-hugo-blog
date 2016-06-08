@@ -15,7 +15,7 @@ This is a home for all that is dev outside my regular gig as a software develope
 
 * Deployed using [Hugo](https://gohugo.io/), a wicked static site generator
 * Hosted for free on [GitHub Pages](https://pages.github.com/)
-* Built using tools like [Sublime Text](http://www.sublimetext.com/) and [Oh my ZSH](http://ohmyz.sh/), in between coffees
+* Built using tools like [Atom](https://atom.io/) and [Oh my ZSH](http://ohmyz.sh/), in between coffees
 * Using [Red Lounge](http://themes.gohugo.io/redlounge/) as a theme
 
 

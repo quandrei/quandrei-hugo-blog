@@ -1,6 +1,6 @@
 +++
 date = 2013-10-18T00:00:00Z
-tags = ["dev", "code", "online-learning", "codeschool"]
+tags = ["dev", "code", "online-courses", "codeschool", "learning"]
 title = "Codeschool"
 slug = "/codeschool/"
 notoc = true
