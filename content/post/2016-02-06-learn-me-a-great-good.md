@@ -1,5 +1,5 @@
 +++
-date = 2016-01-31T00:00:00Z
+date = 2016-02-06T00:00:00Z
 tags = ["dev", "web", "learning", "programming languages"]
 title = "Learn Me a Great Good"
 slug = "/learn-me-a-great-good/"
@@ -9,7 +9,7 @@ totop = true
 
 ### PHP, we all fall down
 
-So PHP has been getting me down lately, and I have been looking for the next new thing to get my mojo rising. Despite some improvements that came out of [PHP7](http://php.net/archive/2016.php#id2016-05-26-1) and dependency tools like [Composer](https://getcomposer.org/), there are a great many things that make day-to-day development, well, annoying. Among them, they include:
+So PHP has been getting me down lately, and I have been looking for the next new thing to get my mojo rising. Despite some improvements that came out of [PHP7](http://php.net/manual/en/migration70.new-features.php) and dependency tools like [Composer](https://getcomposer.org/), there are a great many things that make day-to-day development, well, annoying. Among them, they include:
 
 * an identity crisis, where it adopts the verbosity of Java in many of its bloated frameworks, but also retains its procedural style from its C-like hay day
 * a lack of types, causing unpredictability and a debugging nightmare
