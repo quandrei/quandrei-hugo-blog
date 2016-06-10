@@ -23,9 +23,9 @@ If "Why PHP sucks" is a topic that interests you, some fair points can be found 
 
 I've tried a few things over the past few months that may have some promise:
 
-**[Ruby](https://www.ruby-lang.org/en/) / [Rails](https://www.ruby-lang.org/en/)** - easy to get a web app up and running. Although, I need to learn more about how the underpinnings work, since the automagically generating everything doesn't sit well with me.
+**[Ruby](https://www.ruby-lang.org/en/) / [Rails](https://www.ruby-lang.org/en/)** - easy to get a web app up and running, through Rails' generators/scaffolding and Ruby's expressiveness. Although, I need to learn more about how the underpinnings work, since the automagically generating everything doesn't sit well with me.
 
-**[Python](https://www.python.org/) / [Flask](http://flask.pocoo.org/)** - simple/clean syntax, and the flexibility of being a general purpose language, has made learning python a great asset to my toolset.
+**[Python](https://www.python.org/) / [Flask](http://flask.pocoo.org/)** - simple/clean syntax, and the flexibility of being a general purpose language, has made learning python a great asset to my toolset. Flask gave me the flexibility I needed to get the job done, with the option to import what I wanted, without a ton of bloat.
 
 **[Go](https://golang.org/)** - the most interesting option so far, as it has numerous features that appeal to me:
 
