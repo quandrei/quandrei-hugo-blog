@@ -92,4 +92,4 @@ Decorators still mystify me, and I confess I did not take the time to fully unde
 
 I am not certain if I will ever return to this specific stack, as I have found some other tools I prefer for developing web applications and microservices (enter [Go](https://golang.org/)), but it was fun to prototype something with it, and get back to using MongoDB again.
 
-The next step for me will likely be reproducing this functionality using Go, not for any groundbreaking app or discovery, but for the more important reason: [because it's there.](https://youtu.be/qL1WqN1XKK0?t=36s).
+The next step for me will likely be reproducing this functionality using Go, not for any groundbreaking app or discovery, but for the more important reason: [because it's there.](https://youtu.be/qL1WqN1XKK0?t=36s)
