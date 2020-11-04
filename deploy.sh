@@ -1,28 +1,25 @@
-#!/bin/bash
+#!/bin/sh
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# If a command fails then the deploy stops
+set -e
 
-# Build the project
-# You may need to use some of the below options:
-#   * -b=http://<your-username>.github.io/<your-project>
-#   * --theme=<your-theme-name>
-#   * --buildDrafts   # include drafts
-#   * -d=<static-pages-dir>
-#   * -v   # verbose
-#
-# Example: hugo -b=http://quandrei.github.io/ --theme=hugo-steam-theme --buildDrafts -d=public/ -v
-hugo 
+printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-cd public    # Go To Public folder
-git add -A   # Add changes to git.
+# Build the project.
+hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+# Go To Public folder
+cd public
+
+# Add changes to git.
+git add .
 
 # Commit changes.
-msg="rebuilding site `date +\"%Y-%m-%dT%H:%M:%S %Z\"`"
-if [ $# -eq 1 ]
-  then msg="$1"
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
 fi
 git commit -m "$msg"
 
-git push origin master   # Push source and build repos.
-
-cd ..   # Come Back
+# Push source and build repos.
+git push origin master
